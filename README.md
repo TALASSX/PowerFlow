@@ -1,6 +1,6 @@
 # PowerFlow - Interactive Org Chart Visual for Power BI
 
-[![License](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/TALASSX/PowerFlow/blob/main/EULA.md)
+[![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
 [![Power BI](https://img.shields.io/badge/Power%20BI-Visual-orange)](https://powerbi.microsoft.com/)
 
 A powerful and feature-rich organizational chart visual for Power BI featuring D3.js rendering, zoom/pan navigation, employee photos, sparklines, and comprehensive customization options.
@@ -150,9 +150,9 @@ Comprehensive customization options for colors, sizes, and layouts.
 
 ## 📜 Legal
 
+- **License**: [MIT License](LICENSE)
 - **Privacy Policy**: [View privacy policy](https://raw.githubusercontent.com/TALASSX/PowerFlow/main/PRIVACY_POLICY.md)
 - **End User License Agreement**: [View EULA](https://raw.githubusercontent.com/TALASSX/PowerFlow/main/EULA.md)
-- **License**: MIT License
 
 ## 🏢 Use Cases
 

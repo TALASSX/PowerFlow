@@ -28,17 +28,25 @@ A powerful and feature-rich organizational chart visual for Power BI featuring D
 
 ## 📥 Installation
 
-### Option 1: Download from Releases
+### Option 1: Direct Download (Recommended)
+Download the latest compiled visual package directly:
+```bash
+wget https://raw.githubusercontent.com/TALASSX/PowerFlow/main/dist/orgchartv243A4EEB0134E42CFA53C8EFE44155F75.1.0.0.0.pbiviz
+```
+
+**Direct Link**: [Download PowerFlow Visual](https://raw.githubusercontent.com/TALASSX/PowerFlow/main/dist/orgchartv243A4EEB0134E42CFA53C8EFE44155F75.1.0.0.0.pbiviz)
+
+### Option 2: From GitHub Releases
 1. Go to [Releases](https://github.com/TALASSX/PowerFlow/releases)
 2. Download `PowerFlow-OrgChart-Visual.pbiviz`
-3. In Power BI Desktop: File → Import → "Import a custom visual from a file"
-4. Select the downloaded .pbiviz file
 
-### Option 2: Direct Download
-```bash
-# Download the latest release
-wget https://github.com/TALASSX/PowerFlow/releases/latest/download/PowerFlow-OrgChart-Visual.pbiviz
-```
+### Option 3: Manual Installation
+1. In Power BI Desktop: **File** → **Import** → **"Import a custom visual from a file"**
+2. Navigate to the downloaded `.pbiviz` file
+3. Select and import
+
+### Post-Installation
+After importing, the PowerFlow visual will appear in your visualizations pane with the PowerFlow icon.
 
 ## 📊 Data Requirements
 

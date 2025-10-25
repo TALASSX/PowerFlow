@@ -7,6 +7,12 @@ A powerful and feature-rich organizational chart visual for Power BI featuring D
 
 ![PowerFlow Demo](https://raw.githubusercontent.com/TALASSX/PowerFlow/main/screenshots/PowerFlow-Screenshot-01-MainView.png)
 
+## 📚 Documentation
+
+- **[📖 User Manual](USER_MANUAL.md)** - Complete usage guide with installation, configuration, and troubleshooting
+- **[⚡ Features & Capabilities](FEATURES.md)** - Detailed technical specifications and feature overview
+- **[📊 Sample Data](sample-org-data.csv)** - Download sample organizational data to test all features
+
 ## ✨ Key Features
 
 - **Interactive D3.js Org Charts**: Beautiful hierarchical visualizations with smooth animations
@@ -128,9 +134,11 @@ Comprehensive customization options for colors, sizes, and layouts.
 
 ## 📞 Support & Documentation
 
-- **GitHub Issues**: [Report bugs or request features](https://github.com/TALASSX/PowerFlow/issues)
-- **GitHub Repository**: [Source code and documentation](https://github.com/TALASSX/PowerFlow)
-- **Sample Report**: Download `PowerFlow-OrgChart-Demo.pbix` for a complete example
+- **[📖 Complete User Manual](USER_MANUAL.md)** - Step-by-step usage guide with installation and troubleshooting
+- **[⚡ Technical Features](FEATURES.md)** - Detailed specifications and capabilities
+- **[📊 Sample Data](sample-org-data.csv)** - Test data with 50 employees across departments
+- **[🐛 Report Issues](https://github.com/TALASSX/PowerFlow/issues)** - Bug reports and feature requests
+- **[📧 Get Help](https://github.com/TALASSX/PowerFlow/issues)** - Support and questions
 
 ## 📜 Legal
 
@@ -176,5 +184,5 @@ Built with:
 
 **PowerFlow** - Transform your organizational data into beautiful, interactive visualizations.
 
-[Download Now](https://github.com/TALASSX/PowerFlow/releases) • [View Documentation](https://github.com/TALASSX/PowerFlow) • [Report Issues](https://github.com/TALASSX/PowerFlow/issues)</content>
+[Download Now](https://github.com/TALASSX/PowerFlow/releases) • [📖 User Manual](USER_MANUAL.md) • [⚡ Features](FEATURES.md) • [📊 Sample Data](sample-org-data.csv) • [🐛 Report Issues](https://github.com/TALASSX/PowerFlow/issues)</content>
 <parameter name="filePath">C:\Users\rocks\OneDrive\Desktop\OrgChartVisual\public-repo\README.md

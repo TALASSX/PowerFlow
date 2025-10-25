@@ -1,0 +1,17 @@
+{
+		"version": "1.0.0.0",
+		"author": {"name":"sai teja talasila","email":"saiteja.talasila@gmail.com"},
+		"resources": [
+			{
+				"resourceId": "rId0",
+				"sourceType": 5,
+				"file": "resources/orgchartv243A4EEB0134E42CFA53C8EFE44155F75.pbiviz.json"
+			}
+		],
+		"visual": {"name":"orgchartv2","displayName":"PowerFlow","guid":"orgchartv243A4EEB0134E42CFA53C8EFE44155F75","visualClassName":"Visual","version":"1.0.0.0","description":"A powerful and interactive organizational chart visual for Power BI featuring D3.js rendering, zoom/pan navigation, employee photos, sparklines, and comprehensive customization options.","supportUrl":"https://github.com/TALASSX/PowerFlow/issues","gitHubUrl":"https://github.com/TALASSX/PowerFlow"},
+		"metadata": {
+			"pbivizjson": {
+				"resourceId": "rId0"
+			}
+		}
+	}
